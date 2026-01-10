@@ -6,27 +6,49 @@
 
 ## 👨‍💻 About Me
 🎓 B.Tech IT Student at **VIT Pune**  
-🤖 Passionate about **AI, ML & Data Science**  
+🤖 AI, ML & Data Science Enthusiast  
 📄 IEEE Research Paper Co-Author – *NutriScan*  
-💡 Love understanding how systems work under the hood  
-🔥 Consistent learner & project builder  
+📊 Hands-on with real datasets & ML models  
+🎬 Basic Video Editing (Adobe Premiere Pro)  
+🔥 Curious learner & project builder  
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,flutter,git,github,linux,firebase" />
+
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
+
+### Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,linux" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+<p>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-purple?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Projects
-✨ **NutriScan** – AI-based Nutrition App  
+✨ NutriScan – AI-based Nutrition App  
 ✨ Smart Command Execution Shell  
 ✨ Maze Escape Game  
 ✨ Data Science Mini Projects  
-
-*(More coming soon...)*
 
 ---
 
@@ -65,5 +87,5 @@
 </p>
 
 <h3 align="center">
-  🚀 Turning Curiosity Into Code
+🚀 Turning Curiosity Into Code
 </h3>
