@@ -1,10 +1,10 @@
-<h3 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Tinos&duration=4500&pause=2000&color=62CEDF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shlok!;AI+%26+Data+Science+Enthusiast;Building+cool+projects+daily+%F0%9F%94%A5" />
   </a>
-</h3>
+</h1>
 
-<p align="center">
+<p align="left">
 🎓 B.Tech IT Student @ VIT Pune <br>
 🤖 AI, ML & Data Science Enthusiast <br>
 💻 Love building real-world projects <br>
@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,numpy,pandas,matplotlib,mysql,linux,flutter,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,numpy,pandas,matplotlib,mysql,linux,git,github" />
 </p>
 
 ---
@@ -48,5 +48,5 @@
 ---
 
 <h3 align="center">
-🚀 Always learning. Always building.
+🚀Always learning. Always building.
 </h3>
